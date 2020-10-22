@@ -12,7 +12,6 @@ for a number of indicators (also selected from a menu)
 Time course graphs of all indicators for a selected region    
 3 - RegAll      
 Time course graphs of all regions for a selected indicator    
-4 - 4Reg     
+4 - 5Reg     
 Comparison in a single graph of the time course of a selected indicatorof in four selected regions     
-5 - 4Prov    
-Comparison in a single graph of the time course of the total amount of positive cases in four selected provinces      
+     
